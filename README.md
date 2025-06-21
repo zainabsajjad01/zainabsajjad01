@@ -12,10 +12,6 @@
 - Languages: Python, C++, (learning more!)
 - Tools: GitHub, VS Code, Jupyter Notebook
 
-🔗 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/zainab-sajjad-a628b6337)
-- [GitHub](https://github.com/zainabsajjad01)
-
 🌱 Always learning. Always curious. Always coding.
 
 
