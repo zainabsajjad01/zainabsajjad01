@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Zainab Sajjad 👋
 
-<!--
-**zainabsajjad01/zainabsajjad01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student passionate about Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+💼 Currently doing a 6-week AI/ML Internship at Technik Nest Pvt Ltd.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills: Python | Machine Learning | HTML | GitHub
+
+🌱 Eager to build real-world AI projects and grow my knowledge.
+
+🔗 Connect with me:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/zainab-sajjad-a628b6337)
+- 🐙 [GitHub](https://github.com/zainabsajjad01)
